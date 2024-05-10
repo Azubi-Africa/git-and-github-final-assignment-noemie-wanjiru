@@ -22,7 +22,7 @@ The below table must contain the details of the repositories you will create, fi
 |:--:|:--------------:|:--------------:|:--------------:|
 | 1 | Currency exchange Analysis            |  Analysis or currency exchange data from API            | https://github.com/noemie-wanjiru/currency_exchange_analysis      |
 | 2 |  Store revenue analysis            |  Analysis of data from a retail store             |https://github.com/noemie-wanjiru/store_revenue_analysis      |
-| 3 |     Caesar cipher and decipher          |  caesar cipher and  decipher              | https://github.com/noemie-wanjiru/Caesar-cipher-and-decipher-       |
+| 3 |     Caesar cipher and decipher          |  encryption and decryption using a caesar cipher              | https://github.com/noemie-wanjiru/Caesar-cipher-and-decipher-       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
